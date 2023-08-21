@@ -21,6 +21,9 @@ The dataset provides a comprehensive view of customer transactions, allowing us 
 
 ## **RFM Analysis**
 
+![Alt text](rfm-intro.png?raw=true "Title")
+
+
 RFM analysis is a customer segmentation technique that leverages three key metrics:
 
 1. **Recency (R)**: How recently a customer made a purchase. It measures customer engagement and loyalty.

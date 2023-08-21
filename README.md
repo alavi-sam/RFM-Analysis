@@ -59,8 +59,8 @@ The notebook contains detailed explanations and code for each step of the analys
 The results of the customer segmentation analysis are presented in the Jupyter Notebook. The clusters identified can be used for targeted marketing campaigns, product recommendations, and customer retention strategies.
 
 Here are some potential actions based on the segments:
-- **High-Value Customers**: Offer loyalty rewards or personalized product recommendations.
-- **Potentiol loyalists**: Upsell higher-margin products.
+- **Legandary Customers**: Offer loyalty rewards or personalized product recommendations.
+- **Potential loyalists**: Upsell higher-margin products.
 - **Hibernate Customers**: Encourage them to make more frequent purchases with discounts or promotions.
 
 By leveraging these insights, businesses can optimize their marketing efforts and ultimately improve their bottom line.

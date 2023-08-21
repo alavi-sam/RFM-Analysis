@@ -40,7 +40,6 @@ To segment customers effectively, we employ the KMeans clustering algorithm. KMe
 
 The key steps in the customer segmentation process include:
 - Preprocessing the data.
-- Scaling the RFM values.
 - Determining the optimal number of clusters using techniques like the elbow method.
 - Applying KMeans clustering.
 - Analyzing and interpreting the results.
@@ -61,9 +60,8 @@ The results of the customer segmentation analysis are presented in the Jupyter N
 
 Here are some potential actions based on the segments:
 - **High-Value Customers**: Offer loyalty rewards or personalized product recommendations.
-- **Lapsed Customers**: Send re-engagement emails or special offers.
-- **Low-Value, High-Frequency Customers**: Upsell higher-margin products.
-- **Infrequent Shoppers**: Encourage them to make more frequent purchases with discounts or promotions.
+- **Potentiol loyalists**: Upsell higher-margin products.
+- **Hibernate Customers**: Encourage them to make more frequent purchases with discounts or promotions.
 
 By leveraging these insights, businesses can optimize their marketing efforts and ultimately improve their bottom line.
 

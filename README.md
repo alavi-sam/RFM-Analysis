@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Welcome to the Retail Customer Segmentation project! In this repository, we perform an RFM (Recency, Frequency, Monetary) analysis on retail store customer data obtained from the UCI Machine Learning Repository. This analysis is followed by customer segmentation using the KMeans clustering algorithm to gain insights into customer behavior and enable data-driven marketing strategies.
+Welcome to the Retail Customer Segmentation project! In this repository, we perform an RFM (Recency, Frequency, Monetary) analysis on retail store customer data obtained from the UCI Machine Learning Repository. This analysis is followed by customer segmentation using the K-means clustering algorithm to gain insights into customer behavior and enables data-driven marketing strategies.
 
 ## **Dataset**
 
@@ -13,7 +13,7 @@ The dataset used in this project comprises the following columns:
 - **CustomerID**: Unique identifier for each customer.
 - **InvoiceDate**: The date of the purchase transaction.
 - **UnitPrice**: The price of each item.
-- **Quantity**: The quantity of items purchased.
+- **Quantity**: The number of items purchased.
 - **Country**: The country where the purchase was made.
 - **Description**: The name of the purchased item.
 
@@ -30,7 +30,7 @@ RFM analysis is a customer segmentation technique that leverages three key metri
 2. **Frequency (F)**: How often a customer makes purchases. It indicates customer activity and buying patterns.
 3. **Monetary (M)**: The total amount a customer has spent. It quantifies the customer's value to the business.
 
-By calculating these metrics for each customer, we gain valuable insights into their behavior. For example, a customer with high recency, frequency, and monetary values is considered a loyal and valuable customer.
+By calculating these metrics for each customer, we gain valuable insights into their behavior. For example, a customer with high recency, frequency, and monetary value is considered a loyal and valuable customer.
 
 ## **Customer Segmentation**
 
@@ -70,10 +70,6 @@ By leveraging these insights, businesses can optimize their marketing efforts an
 ## **Contributing**
 
 Contributions to this project are welcome! If you have ideas for improvements or new features, please feel free to submit issues or pull requests.
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 

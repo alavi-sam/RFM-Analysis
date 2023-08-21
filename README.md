@@ -34,6 +34,8 @@ By calculating these metrics for each customer, we gain valuable insights into t
 
 ## **Customer Segmentation**
 
+![Alt text](RFMCluster.png?raw=true "Title")
+
 To segment customers effectively, we employ the KMeans clustering algorithm. KMeans groups customers into clusters based on their RFM values, allowing us to identify distinct customer segments. These segments can then be targeted with tailored marketing strategies.
 
 The key steps in the customer segmentation process include:
